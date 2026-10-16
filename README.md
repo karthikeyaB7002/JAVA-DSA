@@ -1,2 +1,16 @@
-# Java-DSA
-This repository contains my Java practice and DSA problems that I solve while learning. I will be adding my LeetCode solutions and code as I learn new topics and improve my problem-solving skills.
+# Java DSA
+
+My journey of learning Data Structures and Algorithms
+using Java.
+
+## What you'll find here
+- Java practice problems
+- LeetCode solutions
+- Arrays, strings, searching and sorting
+- Core data structures and algorithms
+
+## Goal
+Build strong problem-solving skills, understand DSA
+concepts deeply.
+
+Learning, solving, and improving one problem at a time.
