@@ -1,3 +1,10 @@
+/*
+ * LeetCode 1295: Find Numbers with Even Number of Digits
+ * Problem: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+ *
+ * Approach: Count the digits in each number and check
+ * whether the digit count is even.*/
+     
 class Solution {
     public int findNumbers(int[] nums) {
         int val=0;
