@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/
-//This problem is taking from the leetcode number 852
+//This solution is applicable for both  leetcode number 852 or 162
 //You are given an integer mountain array arr of length n
 //where the values increase to a peak element and then decrease.
 
